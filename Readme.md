@@ -48,12 +48,14 @@ Aplicación para registrar pacientes de manera segura y escalable, desarrollada 
 
 ```bash
 git clone https://github.com/tu-usuario/patient-registration-app.git
-cd patient-registration-app/docker
+cd patientapp/docker
 ```
 
 ### 2. Configurar credenciales Mailtrap
 
 Editá el archivo `docker-compose.yml` y reemplazá las credenciales:
+
+Se dejan por default las generadas para esta prueba. 
 
 ```yaml
 SPRING_MAIL_USERNAME: tu_username_mailtrap
