@@ -46,8 +46,10 @@ Aplicación para registrar pacientes de manera segura y escalable, desarrollada 
 
 ### 1. Clonar el repositorio
 
+Por letra, se pidió no dejar comentarios del usuario, pedir repo. 
+
 ```bash
-git clone https://github.com/tu-usuario/patient-registration-app.git
+git clone 
 cd patientapp/docker
 ```
 
